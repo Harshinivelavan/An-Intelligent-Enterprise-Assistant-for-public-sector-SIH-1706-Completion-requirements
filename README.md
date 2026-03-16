@@ -16,3 +16,7 @@ The main idea of this project is to develop an intelligent chatbot that helps em
 
 Architecture Diagram:
 ![image alt](https://github.com/Harshinivelavan/An-Intelligent-Enterprise-Assistant-for-public-sector-SIH-1706-Completion-requirements/blob/ea8b0b5b119847a1ea72f6c49e8ac8e0254b841c/Screenshot%202026-03-16%20060046.png)
+
+Output:
+
+
